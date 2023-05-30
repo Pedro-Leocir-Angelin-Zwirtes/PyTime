@@ -1,5 +1,5 @@
-API_KEY = "e2634bde475024b16aa897f0eb291c54"
+API_KEY = "API_KEY"
 
-CITY_NAME = "vacaria"
+CITY_NAME = "CITY"
 
-LANG = "pt_br"
+LANG = "LANG"
